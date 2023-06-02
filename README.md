@@ -2,10 +2,10 @@
 
 ## the form screenshot
 
-![alt text](screenshots/Form.PNG)
+![form](screenshots/Form.PNG)
 
 ## the card screenshot
 
-![alt text](screenshots/Card.PNG)
+![card](screenshots/Card.PNG)
 
- the finel exercice is in [Link Text](exo.js)
+ the finel exercice is in [exo.js](exo.js)
