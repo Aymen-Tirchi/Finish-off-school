@@ -1,11 +1,11 @@
-# screenshots of the frontend
+# Screenshots of the Frontend
 
-## the form screenshot
+## The Form Screenshot
 
-![form](screenshots/Form.PNG)
+![Form](Screenshots/Form.PNG)
 
-## the card screenshot
+## The Card Screenshot
 
-![card](screenshots/Card.PNG)
+![Card](Screenshots/Card.PNG)
 
- the finel exercice is in [exo.js](exo.js)
+The final exercise is in [exo.js](exo.js).
